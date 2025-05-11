@@ -18,15 +18,25 @@ namespace NguyenVinhSon_2122110315.Model
 
        
         public int CategoryId { get; set; }
-        public Category? Category { get; set; } 
+        public Category? Category { get; set; }
+
+        public int BrandId { get; set; }
+        public Brand? Brand { get; set; }
 
 
-        public string? CreatedBy { get; set; }
-        public string? UpdatedBy { get; set; }
-        public string? DeletedBy { get; set; }
 
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
-        public DateTime UpdatedAt { get; set; } = DateTime.Now;
+        public int? CreatedBy { get; set; }
+        public User? CreatedByUser { get; set; }
+
+        public int? UpdatedBy { get; set; }
+        public User? UpdatedByUser { get; set; }
+
+        public int? DeletedBy { get; set; }
+        public User? DeletedByUser { get; set; }
+
+
+        public DateTime? CreatedAt { get; set; } = DateTime.Now;
+        public DateTime? UpdatedAt { get; set; } = DateTime.Now;
         public DateTime? DeletedAt { get; set; }
     }
 

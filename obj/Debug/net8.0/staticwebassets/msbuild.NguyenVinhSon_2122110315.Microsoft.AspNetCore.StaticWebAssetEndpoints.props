@@ -1,0 +1,196 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/images/user/admin4.841zkvty48.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\user\admin4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"841zkvty48"},{"Name":"integrity","Value":"sha256-aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/images/user/admin4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:12:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/images/user/admin4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\user\admin4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"33796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:12:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.iot9dp52k5.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\user\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iot9dp52k5"},{"Name":"integrity","Value":"sha256-gv8tx0SFAqJQKsATYYeV3\u002BMI/8QjDWsUQTA29afIDD8="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10726"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022gv8tx0SFAqJQKsATYYeV3\u002BMI/8QjDWsUQTA29afIDD8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 09:38:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\user\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gv8tx0SFAqJQKsATYYeV3\u002BMI/8QjDWsUQTA29afIDD8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10726"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022gv8tx0SFAqJQKsATYYeV3\u002BMI/8QjDWsUQTA29afIDD8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 09:38:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.ml87ocgpol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\apple-ipad-mini-6-64gb-5g-fullbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ml87ocgpol"},{"Name":"integrity","Value":"sha256-ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:13:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\apple-ipad-mini-6-64gb-5g-fullbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:13:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.ml87ocgpol.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ml87ocgpol"},{"Name":"integrity","Value":"sha256-ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 17:49:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11152"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ttBitjEo3by2YX5dTvIfCAmPp\u002BbkUHcrtSxP/\u002BJj8ig=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 17:49:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\iphone-16-pro-max-1tb-quoc-te-likenew.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7SYrLFgCtHOjX7cM0AkIF\u002BeY88QgxRoVqrvvBRKbCsY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6392"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227SYrLFgCtHOjX7cM0AkIF\u002BeY88QgxRoVqrvvBRKbCsY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 15:04:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.rugr7dllcw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\iphone-16-pro-max-1tb-quoc-te-likenew.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rugr7dllcw"},{"Name":"integrity","Value":"sha256-7SYrLFgCtHOjX7cM0AkIF\u002BeY88QgxRoVqrvvBRKbCsY="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6392"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00227SYrLFgCtHOjX7cM0AkIF\u002BeY88QgxRoVqrvvBRKbCsY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 15:04:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/moi-sua-nua-ne-20250417093439.4jisj60812.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\moi-sua-nua-ne-20250417093439.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4jisj60812"},{"Name":"integrity","Value":"sha256-MOg5\u002B67G1tjd81K6xWjAi5fdF1aDqkba2\u002BAWpClPVi8="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/moi-sua-nua-ne-20250417093439.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"368394"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MOg5\u002B67G1tjd81K6xWjAi5fdF1aDqkba2\u002BAWpClPVi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 02:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/moi-sua-nua-ne-20250417093439.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\moi-sua-nua-ne-20250417093439.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MOg5\u002B67G1tjd81K6xWjAi5fdF1aDqkba2\u002BAWpClPVi8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"368394"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MOg5\u002B67G1tjd81K6xWjAi5fdF1aDqkba2\u002BAWpClPVi8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 02:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/moi-them-lan-2-ne.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\moi-them-lan-2-ne.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kYiuP6GzbpUm5u\u002B\u002Bo\u002BGU8kIsTjENhgAa0ufzzByPbRk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"682093"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kYiuP6GzbpUm5u\u002B\u002Bo\u002BGU8kIsTjENhgAa0ufzzByPbRk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 02:04:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/moi-them-lan-2-ne.xol7z72ukw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\moi-them-lan-2-ne.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xol7z72ukw"},{"Name":"integrity","Value":"sha256-kYiuP6GzbpUm5u\u002B\u002Bo\u002BGU8kIsTjENhgAa0ufzzByPbRk="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/moi-them-lan-2-ne.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"682093"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kYiuP6GzbpUm5u\u002B\u002Bo\u002BGU8kIsTjENhgAa0ufzzByPbRk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 02:04:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 16:59:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.tnercuw8iv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnercuw8iv"},{"Name":"integrity","Value":"sha256-\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 16:59:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-s23-plus-5g-256gb.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:12:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb.tnercuw8iv.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-s23-plus-5g-256gb.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tnercuw8iv"},{"Name":"integrity","Value":"sha256-\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-s23-plus-5g-256gb.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BUYo61k\u002Bqt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:12:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.70teqkrb35.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"70teqkrb35"},{"Name":"integrity","Value":"sha256-qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53062"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 17:51:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53062"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 17:51:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-s9-.70teqkrb35.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-tab-s9-.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"70teqkrb35"},{"Name":"integrity","Value":"sha256-qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-s9-.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53062"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:16:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/samsung-galaxy-tab-s9-.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\samsung-galaxy-tab-s9-.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53062"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qdtLh7pHoUeS\u002BY7UEv2avWHXrJ9Z84QsQ\u002BNLEEvE/\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 06:16:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/san-pham-1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\san-pham-1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"86541"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 01:36:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/product/san-pham-1.waqb69sbmy.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\product\san-pham-1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"waqb69sbmy"},{"Name":"integrity","Value":"sha256-6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/product/san-pham-1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"86541"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 01:36:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin1.8mt94ca7fx.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8mt94ca7fx"},{"Name":"integrity","Value":"sha256-MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/user/admin1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35061"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 12:25:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35061"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 12:25:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin3.7pul3370jv.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin3.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7pul3370jv"},{"Name":"integrity","Value":"sha256-q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/user/admin3.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58558"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:04:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin3.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin3.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58558"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:04:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin5.lhl7yc5i9c.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lhl7yc5i9c"},{"Name":"integrity","Value":"sha256-iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/user/admin5.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82381"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:21:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/admin5.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\admin5.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"82381"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:21:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/nguyen-vinh-son.iums03ziky.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\nguyen-vinh-son.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iums03ziky"},{"Name":"integrity","Value":"sha256-qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar\u002BD6Lhiq8o4="},{"Name":"label","Value":"_content/NguyenVinhSon_2122110315/uploads/user/nguyen-vinh-son.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6582"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar\u002BD6Lhiq8o4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 15:00:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/NguyenVinhSon_2122110315/uploads/user/nguyen-vinh-son.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\user\nguyen-vinh-son.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar\u002BD6Lhiq8o4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6582"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar\u002BD6Lhiq8o4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 15:00:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,12 +1,1670 @@
 {
   "Version": 1,
-  "Hash": "i1djSMVd3xaHuRFUXbsRNCnNqdNBYByveH+RsNim2CA=",
+  "Hash": "FyWsCE1jaRQQbOLUYKrJ4RgKSAq5n1qxOl5aB+lixaI=",
   "Source": "NguyenVinhSon_2122110315",
   "BasePath": "_content/NguyenVinhSon_2122110315",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "NguyenVinhSon_2122110315\\wwwroot",
+      "Source": "NguyenVinhSon_2122110315",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\admin4.jpg",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "images/user/admin4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "841zkvty48",
+      "Integrity": "aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user\\admin4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iot9dp52k5",
+      "Integrity": "gv8tx0SFAqJQKsATYYeV3+MI/8QjDWsUQTA29afIDD8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/apple-ipad-mini-6-64gb-5g-fullbox#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ml87ocgpol",
+      "Integrity": "ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ml87ocgpol",
+      "Integrity": "ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rugr7dllcw",
+      "Integrity": "7SYrLFgCtHOjX7cM0AkIF+eY88QgxRoVqrvvBRKbCsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/moi-sua-nua-ne-20250417093439#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jisj60812",
+      "Integrity": "MOg5+67G1tjd81K6xWjAi5fdF1aDqkba2+AWpClPVi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-them-lan-2-ne.jpg",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/moi-them-lan-2-ne#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xol7z72ukw",
+      "Integrity": "kYiuP6GzbpUm5u++o+GU8kIsTjENhgAa0ufzzByPbRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\moi-them-lan-2-ne.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tnercuw8iv",
+      "Integrity": "+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/samsung-galaxy-s23-plus-5g-256gb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tnercuw8iv",
+      "Integrity": "+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70teqkrb35",
+      "Integrity": "qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-s9-.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/samsung-galaxy-tab-s9-#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70teqkrb35",
+      "Integrity": "qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\samsung-galaxy-tab-s9-.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\san-pham-1.jpg",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/product/san-pham-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "waqb69sbmy",
+      "Integrity": "6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\product\\san-pham-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin1.jpg",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/user/admin1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8mt94ca7fx",
+      "Integrity": "MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\user\\admin1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin3.webp",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/user/admin3#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7pul3370jv",
+      "Integrity": "q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\user\\admin3.webp"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin5.png",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/user/admin5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhl7yc5i9c",
+      "Integrity": "iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\user\\admin5.png"
+    },
+    {
+      "Identity": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\nguyen-vinh-son.jfif",
+      "SourceId": "NguyenVinhSon_2122110315",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\",
+      "BasePath": "_content/NguyenVinhSon_2122110315",
+      "RelativePath": "uploads/user/nguyen-vinh-son#[.{fingerprint}]?.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iums03ziky",
+      "Integrity": "qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar+D6Lhiq8o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\user\\nguyen-vinh-son.jfif"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/user/admin4.841zkvty48.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\admin4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:12:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "841zkvty48"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user/admin4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0="
+        }
+      ]
+    },
+    {
+      "Route": "images/user/admin4.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\admin4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:12:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aLCwiNMZG6spAAES64mamLhf6w1cZNm3fA8Kgo7NOc0="
+        }
+      ]
+    },
+    {
+      "Route": "images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.iot9dp52k5.webp",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gv8tx0SFAqJQKsATYYeV3+MI/8QjDWsUQTA29afIDD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 09:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iot9dp52k5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gv8tx0SFAqJQKsATYYeV3+MI/8QjDWsUQTA29afIDD8="
+        }
+      ]
+    },
+    {
+      "Route": "images/user/d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gv8tx0SFAqJQKsATYYeV3+MI/8QjDWsUQTA29afIDD8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 09:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gv8tx0SFAqJQKsATYYeV3+MI/8QjDWsUQTA29afIDD8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.ml87ocgpol.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:13:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ml87ocgpol"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/apple-ipad-mini-6-64gb-5g-fullbox.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:13:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.ml87ocgpol.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 17:49:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ml87ocgpol"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 17:49:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttBitjEo3by2YX5dTvIfCAmPp+bkUHcrtSxP/+Jj8ig="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SYrLFgCtHOjX7cM0AkIF+eY88QgxRoVqrvvBRKbCsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:04:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SYrLFgCtHOjX7cM0AkIF+eY88QgxRoVqrvvBRKbCsY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.rugr7dllcw.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SYrLFgCtHOjX7cM0AkIF+eY88QgxRoVqrvvBRKbCsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:04:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rugr7dllcw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/iphone-16-pro-max-1tb-quoc-te-likenew.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SYrLFgCtHOjX7cM0AkIF+eY88QgxRoVqrvvBRKbCsY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/moi-sua-nua-ne-20250417093439.4jisj60812.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MOg5+67G1tjd81K6xWjAi5fdF1aDqkba2+AWpClPVi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 02:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jisj60812"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/moi-sua-nua-ne-20250417093439.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MOg5+67G1tjd81K6xWjAi5fdF1aDqkba2+AWpClPVi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/moi-sua-nua-ne-20250417093439.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MOg5+67G1tjd81K6xWjAi5fdF1aDqkba2+AWpClPVi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 02:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MOg5+67G1tjd81K6xWjAi5fdF1aDqkba2+AWpClPVi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/moi-them-lan-2-ne.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-them-lan-2-ne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kYiuP6GzbpUm5u++o+GU8kIsTjENhgAa0ufzzByPbRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 02:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kYiuP6GzbpUm5u++o+GU8kIsTjENhgAa0ufzzByPbRk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/moi-them-lan-2-ne.xol7z72ukw.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-them-lan-2-ne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "682093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kYiuP6GzbpUm5u++o+GU8kIsTjENhgAa0ufzzByPbRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 02:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xol7z72ukw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/moi-them-lan-2-ne.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kYiuP6GzbpUm5u++o+GU8kIsTjENhgAa0ufzzByPbRk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 16:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.tnercuw8iv.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 16:59:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnercuw8iv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-s23-plus-5g-256gb.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-s23-plus-5g-256gb.tnercuw8iv.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:12:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnercuw8iv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/samsung-galaxy-s23-plus-5g-256gb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+UYo61k+qt4gKnvE5q3QBHLMtFq51cXw3J2nBsxmSHw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.70teqkrb35.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 17:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70teqkrb35"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 17:51:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-tab-s9-.70teqkrb35.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-s9-.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70teqkrb35"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/samsung-galaxy-tab-s9-.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/samsung-galaxy-tab-s9-.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-s9-.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 06:16:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdtLh7pHoUeS+Y7UEv2avWHXrJ9Z84QsQ+NLEEvE/+4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/san-pham-1.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\san-pham-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 01:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/product/san-pham-1.waqb69sbmy.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\san-pham-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 01:36:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "waqb69sbmy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/product/san-pham-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6GMiQthomCJnqggrfL4nIw82pWNLGwOkWguy1O4I4hs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin1.8mt94ca7fx.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 12:25:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8mt94ca7fx"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/user/admin1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin1.jpg",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Apr 2025 12:25:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJL6dQm3xKcOh4xTCoYbZFoyLGAsJweC6bSRSp7Oj/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin3.7pul3370jv.webp",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7pul3370jv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/user/admin3.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin3.webp",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin3.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q800EjIqId8vn7SWHHzOhJceCv3fcIeXMleV8omEosw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin5.lhl7yc5i9c.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhl7yc5i9c"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/user/admin5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/admin5.png",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82381"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:21:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iUqxH3m7ZNR3pKOi/iA7Q5L9B8mFhp8cdtSG6RwpLo0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/nguyen-vinh-son.iums03ziky.jfif",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\nguyen-vinh-son.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar+D6Lhiq8o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:00:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iums03ziky"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/user/nguyen-vinh-son.jfif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar+D6Lhiq8o4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/user/nguyen-vinh-son.jfif",
+      "AssetFile": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\nguyen-vinh-son.jfif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/pjpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar+D6Lhiq8o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 15:00:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qv4/e8HAUgYGvUPKS2HuETNFrtCgOp4ar+D6Lhiq8o4="
+        }
+      ]
+    }
+  ]
 }

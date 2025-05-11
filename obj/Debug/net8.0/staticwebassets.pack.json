@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\admin4.jpg",
+      "PackagePath": "staticwebassets\\images\\user\\admin4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp",
+      "PackagePath": "staticwebassets\\images\\user\\d7a44f12-f725-46a6-8b25-a3dc8290cfac.webp"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\apple-ipad-mini-6-64gb-5g-fullbox.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\ipad-mini-6-wifi-64gb-chinh-hang-apple-viet-nam.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\iphone-16-pro-max-1tb-quoc-te-likenew.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product\\moi-sua-nua-ne-20250417093439.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\moi-them-lan-2-ne.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product\\moi-them-lan-2-ne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb-han-quoc-fullbox.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\samsung-galaxy-s23-plus-5g-256gb.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\samsung-galaxy-tab-a9-wifi-4gb-64gb-chinh-hang.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\samsung-galaxy-tab-s9-.png",
+      "PackagePath": "staticwebassets\\uploads\\product\\samsung-galaxy-tab-s9-.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\product\\san-pham-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product\\san-pham-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\user\\admin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin3.webp",
+      "PackagePath": "staticwebassets\\uploads\\user\\admin3.webp"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\admin5.png",
+      "PackagePath": "staticwebassets\\uploads\\user\\admin5.png"
+    },
+    {
+      "Id": "C:\\Users\\vinhs\\OneDrive\\Máy tính\\ASP\\WebBanHang\\NguyenVinhSon_2122110315\\wwwroot\\uploads\\user\\nguyen-vinh-son.jfif",
+      "PackagePath": "staticwebassets\\uploads\\user\\nguyen-vinh-son.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenVinhSon_2122110315.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenVinhSon_2122110315.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NguyenVinhSon_2122110315.props",
+      "PackagePath": "build\\NguyenVinhSon_2122110315.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenVinhSon_2122110315.props",
+      "PackagePath": "buildMultiTargeting\\NguyenVinhSon_2122110315.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NguyenVinhSon_2122110315.props",
+      "PackagePath": "buildTransitive\\NguyenVinhSon_2122110315.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

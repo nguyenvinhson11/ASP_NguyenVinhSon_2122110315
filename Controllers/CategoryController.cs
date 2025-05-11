@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using NguyenVinhSon_2122110315.Data;
 using NguyenVinhSon_2122110315.Model;
+using Microsoft.EntityFrameworkCore;
+using NguyenVinhSon_2122110315.Request;
+using Microsoft.AspNetCore.Authorization;
 
 namespace NguyenVinhSon_2122110315.Controllers
 {
@@ -18,73 +21,130 @@ namespace NguyenVinhSon_2122110315.Controllers
 
         // GET: api/Category
         [HttpGet]
-        public ActionResult<IEnumerable<Category>> Get()
+        public async Task<ActionResult<IEnumerable<Category>>> Get()
         {
-            var categories = _context.Categories.ToList();
-            return Ok(categories);
+            var data = await _context.Categories
+                .Include(c => c.CreatedByUser)
+                .Include(c => c.UpdatedByUser)
+                .Include(c => c .DeletedByUser)
+                .Where(c => c.DeletedAt == null)
+                .ToListAsync();
+            return Ok(data);
         }
 
         // GET: api/Category/5
         [HttpGet("{id}")]
-        public ActionResult<Category> Get(int id)
+        public async Task<ActionResult<Category>> Show(int id)
         {
-            var category = _context.Categories.Find(id);
-            if (category == null)
+            var category = await _context.Categories.FindAsync(id);
+
+            if (category == null || category.DeletedAt != null)
             {
                 return NotFound();
             }
-            return Ok(category);
+
+            return category;
         }
 
         // POST: api/Category
         [HttpPost]
-        public ActionResult<Category> Post([FromBody] Category category)
+        public async Task<IActionResult> Create([FromBody] CategoryStoreRequest request)
         {
-            category.CreatedAt = DateTime.Now;
-            category.UpdatedAt = DateTime.Now;
+            var userId = int.Parse(User.FindFirst("id")?.Value ?? "1");
+
+            var category = new Category
+            {
+                Name = request.Name,
+                CreatedBy = userId,
+                CreatedAt = DateTime.Now,
+                UpdatedAt = null,
+                DeletedAt = null,
+                DeletedBy = null,
+                UpdatedBy = null
+            };
 
             _context.Categories.Add(category);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
 
             return Ok(category);
         }
 
+
         // PUT: api/Category/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Category category)
+       
+        public async Task<IActionResult> Update(int id, [FromBody] CategoryUpdateRequest request)
         {
-            var existingCategory = _context.Categories.Find(id);
-            if (existingCategory == null)
-            {
+            var category = await _context.Categories.FindAsync(id);
+            var userId = int.Parse(User.FindFirst("id")?.Value ?? "1");
+            if (category == null || category.DeletedAt != null)
                 return NotFound();
-            }
 
-            existingCategory.Name = category.Name;
-            existingCategory.UpdatedBy = category.UpdatedBy;
-            existingCategory.UpdatedAt = DateTime.Now;
+            if (!string.IsNullOrWhiteSpace(request.Name))
+                category.Name = request.Name;
 
-            _context.SaveChanges();
+            
 
-            return Ok(existingCategory);
+          
+            category.UpdatedAt = DateTime.Now;
+            category.UpdatedBy = userId;
+            category.DeletedAt = null;
+
+            await _context.SaveChangesAsync();
+
+            return Ok(category); // Trả về thông tin sau khi cập nhật
         }
 
-
-        // DELETE: api/Category/5
+        // DELETE: api/Category/5 (soft delete)
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+      
+        public async Task<IActionResult> Delete(int id)
         {
-            var category = _context.Categories.Find(id);
-            if (category == null)
+            var category = await _context.Categories.FindAsync(id);
+            var userId = int.Parse(User.FindFirst("id")?.Value ?? "1");
+            if (category == null || category.DeletedAt != null)
             {
                 return NotFound();
             }
 
             category.DeletedAt = DateTime.Now;
-            category.DeletedBy = "Sơn"; // 👈 Có thể lấy từ người dùng đăng nhập
-            _context.SaveChanges();
+            category.DeletedBy = userId;
 
-            return Ok(new { message = "Đã xóa mềm danh mục" });
+            await _context.SaveChangesAsync();
+
+            return Ok("Dã xóa mềm");
         }
 
+        [HttpPut("restore/{id}")]
+       
+        public async Task<IActionResult> Restore(int id)
+        {
+            var category = await _context.Categories.FindAsync(id);
+            var userId = int.Parse(User.FindFirst("id")?.Value ?? "1");
+            if (category == null || category.DeletedAt == null)
+                return NotFound();
+
+            category.DeletedAt = null;
+            category.UpdatedAt = DateTime.Now;
+            category.UpdatedBy = userId;
+
+            await _context.SaveChangesAsync();
+            return Ok("Đã khôi phục");
+        }
+
+
+        [HttpDelete("destroy/{id}")]
+        public async Task<IActionResult> Destroy(int id)
+        {
+            var category = await _context.Categories.FindAsync(id);
+
+            if (category == null)
+                return NotFound();
+
+            _context.Categories.Remove(category);
+            await _context.SaveChangesAsync();
+
+            return Ok("Đã xóa vĩnh viễn");
+        }
     }
 }
